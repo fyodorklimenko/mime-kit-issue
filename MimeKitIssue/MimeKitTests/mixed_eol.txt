@@ -1,0 +1,2 @@
+This line ends with \r (CR)This line ends with \n (LF)
+This line ends with \r\n (CRLF)
