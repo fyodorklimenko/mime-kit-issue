@@ -1,0 +1,2 @@
+This line ends with \r (CR or 0D)This line ends with \n (LF or 0A)
+This line ends with \r\n (CRLF or 0D0A)
